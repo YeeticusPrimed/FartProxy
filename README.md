@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.kindpng.com/picc/m/237-2370560_doctor-fart-fart-svg-hd-png-download.png" height="200">
+<p align="center"><img src="https://github.com/YeeticusPrimed/FartProxy/blob/main/fart.png?raw=true" height="200">
 </p>
 
 <h1 align="center">Fart Proxy</h1>
