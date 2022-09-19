@@ -9,6 +9,7 @@
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/YeeticusPrimed/FartProxy)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/YeeticusPrimed/FartProxy)
 <p>Demo:https://fartporxy.johndavidispog.repl.co/</p>
+<p>Alternative:https://FartPorxy-1.johndavidispog.repl.co</p>
 <h3>DO NOT EXPECT UPDATES FOR NOW</h3>
 
 ## Supported Sites
