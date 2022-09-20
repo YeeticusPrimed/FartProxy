@@ -10,7 +10,7 @@
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/YeeticusPrimed/FartProxy)
 <p>Demo:https://fartporxy.johndavidispog.repl.co/</p>
 <p>Alternative:https://FartPorxy-1.johndavidispog.repl.co</p>
-<h3>DO NOT EXPECT UPDATES FOR NOW</h3>
+<h3>UPDATES COMING SOON</h3>
 
 ## Supported Sites
 - [Youtube](https://www.youtube.com)
