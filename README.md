@@ -2,15 +2,14 @@
 </p>
 
 <h1 align="center">Fart Proxy</h1>
-
+<p>Heroku was taken down since it cost money</p>
 <p align="center">This is a frontend devoloped by Johndavid for Ultraviolet<br><br></p>
-<p>Heroku will so be removed since the charging of free apps on September 28</p>
+
 ## Quick Deployments
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/YeeticusPrimed/FartProxy)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/YeeticusPrimed/FartProxy)
 <p>Demo:https://fartporxy.johndavidispog.repl.co/</p>
 <p>Alternative:https://FartPorxy-1.johndavidispog.repl.co</p>
-<h3>UPDATES COMING SOON</h3>
+<h3>DO NOT EXPECT UPDATES FOR NOW</h3>
 
 ## Supported Sites
 - [Youtube](https://www.youtube.com)
